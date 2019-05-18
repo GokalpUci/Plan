@@ -116,7 +116,7 @@ Enable FAIL - WebServer (Bungee)                || WebServer başlatılmadı!
 Enable FAIL - Wrong Database Type               || ${0} Desteklenmeyen bir veritabanı
 HTML - ACTIVITY_INDEX                           || Aktivite göstergesi
 HTML - ALL                                      || Tamamı
-HTML - ALL_TIME_PEAK                            || Tüm Zamanların Zirvesi
+HTML - ALL_TIME_PEAK                            || Tüm Zamanların En İyisi
 HTML - AVERAGE_PING                             || Ortalama Ping
 HTML - AVG                                      || Ortalama
 HTML - BANNED                                   || Yasaklanmış
